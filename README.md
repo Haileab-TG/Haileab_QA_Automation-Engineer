@@ -25,5 +25,5 @@ To run the script, execute the following command on your terminal from inside th
 ```
 ## Demo
 
-[Here](www.canthme.com) you can find a demo video on how to run the script.
+[Here](https://youtu.be/jVZYzxiXSb0) you can find the demo video on how to run the script.
 
